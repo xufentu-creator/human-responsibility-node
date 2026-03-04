@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Human Responsibility Node in High-Replication Systems"
+message: "If you use this work, please cite it as follows."
+type: article
+authors:
+  - family-names: Tu
+    given-names: Xufen
+    affiliation: "Independent Researcher"
+    orcid: ""
+version: "v1.0"
+date-released: "2026-01-01"
+license: "CC-BY-4.0"
+
+keywords:
+  - Human Responsibility Node
+  - High-Replication Systems
+  - Complex Systems
+  - AI Governance
+  - Structural Constraint
+  - Decision Architecture
+  - Responsibility Concentration
+  - Responsibility Drift
+  - Tempo Asymmetry
+  - Distributed Systems
+  - Human Judgment
+  - Structural Stability
