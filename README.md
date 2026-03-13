@@ -1,7 +1,18 @@
 # Human Responsibility Node
 
-## Version: v1.0  
-Year: 2026  
+
+Author: Xufen Tu  
+Affiliation: Independent Interdisciplinary Researcher  
+
+Research Areas: Complex Systems, AI Governance, Decision Architecture, Enterprise Transformation, Human Judgment  
+
+ORCID: https://orcid.org/0009-0007-5265-964X
+
+Canonical research repository (sole authoritative citation entry):  
+https://github.com/xufentu-creator/judgment-as-structural-constraint
+
+Version: v1.0  
+Year: 2026
 
 ---
 
