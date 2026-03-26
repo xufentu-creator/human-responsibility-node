@@ -1,0 +1,170 @@
+{
+  "record_type": "structural_paper",
+
+  "title": "Human Responsibility Node in High-Replication Systems",
+  "title_full": "Human Responsibility Node in High-Replication Systems: A Theoretical Framework of Responsibility Concentration and Structural Stability",
+  "title_zh": "高复制系统中的人类责任节点",
+
+  "author": {
+    "name": "Xufen Tu",
+    "name_zh": "涂绪芬",
+    "role": "Independent Interdisciplinary Researcher"
+  },
+
+  "year": 2026,
+
+  "release": {
+    "version": "1.0",
+    "stage": "initial_release",
+    "repository_path": "v1.0/"
+  },
+
+  "paper_role_in_framework": "Structural definition of responsibility concentration and positional stability under high-replication conditions",
+
+  "abstract_summary": "This paper introduces the Human Responsibility Node as a structurally identifiable position within a decision chain, where Decision Acceptance, Authority Positioning, and Consequence Continuity intersect. It develops a descriptive structural framework for explaining responsibility concentration, drift intervals, tempo asymmetry, and stability paths in high-replication systems.",
+
+  "core_claim": "In high-replication systems, responsibility continuity depends not only on human judgment as a structural boundary, but on whether an identifiable responsibility-bearing position exists where decision acceptance, authority positioning, and consequence continuity intersect.",
+
+  "core_node_definition": {
+    "definition": "A Human Responsibility Node is a structurally identifiable position within a decision chain where system output enters execution, authority becomes linked to execution behavior, and consequence continuity is confirmed.",
+    "structural_function": "Concentrates responsibility at an identifiable positional intersection and preserves continuity across distributed execution structures.",
+    "necessity_condition": [
+      "High-replication conditions",
+      "Distributed execution structures",
+      "Execution tempo exceeding interpretive tempo",
+      "Responsibility continuity requirements"
+    ],
+    "stability_role": "Maintains structural traceability and continuity of responsibility-bearing under replication-driven diffusion conditions."
+  },
+
+  "core_variables": {
+    "decision_acceptance": "The structural moment when output becomes execution.",
+    "authority_positioning": "The identifiable linkage between authority and execution behavior.",
+    "consequence_continuity": "Sustained structural acknowledgment of outcomes across time."
+  },
+
+  "structural_position": {
+    "layer": "Responsibility Node Layer",
+    "function": "Defines where responsibility becomes positionally concentrated within the decision chain.",
+    "type": "Positional structural variable"
+  },
+
+  "key_concepts": [
+    "Human Responsibility Node",
+    "Responsibility Concentration",
+    "Responsibility Drift",
+    "Decision Acceptance",
+    "Authority Positioning",
+    "Consequence Continuity",
+    "Tempo Asymmetry",
+    "Structural Stability",
+    "High-Replication Systems"
+  ],
+
+  "concept_definitions": {
+    "human_responsibility_node": "A structurally identifiable position where decision acceptance, authority positioning, and consequence continuity intersect.",
+    "responsibility_concentration": "The degree to which responsibility remains structurally concentrated at an identifiable position.",
+    "responsibility_drift": "The gradual diffusion or displacement of responsibility across distributed execution structures.",
+    "tempo_asymmetry": "The structural divergence between execution tempo and judgment or consequence-confirmation tempo.",
+    "decision_acceptance": "The transition point at which computational output becomes execution entry.",
+    "authority_positioning": "The structural positioning of authority in relation to execution behavior.",
+    "consequence_continuity": "The continuous structural confirmation that outcomes remain linked to the originating decision path."
+  },
+
+  "keywords": [
+    "Human Responsibility Node",
+    "High-Replication Systems",
+    "Structural Constraint",
+    "Decision Acceptance",
+    "Authority Position",
+    "Responsibility Drift",
+    "Structural Stability",
+    "Tempo Asymmetry",
+    "Responsibility Concentration",
+    "Decision Architecture"
+  ],
+
+  "keywords_zh": [
+    "人类责任节点",
+    "高复制系统",
+    "结构性约束",
+    "决策接受",
+    "权威位置",
+    "责任漂移",
+    "结构稳定性",
+    "节奏不对称",
+    "责任集中",
+    "决策结构"
+  ],
+
+  "topological_forms": [
+    "Single-point topology",
+    "Multi-node coordinated topology",
+    "Dispersed topology",
+    "Virtual-node topology"
+  ],
+
+  "stability_gradient": [
+    "High concentration",
+    "Partial concentration",
+    "Drift interval",
+    "Diffusion interval"
+  ],
+
+  "instability_paths": [
+    "Acceptance without authority intersection",
+    "Execution diffusion without authority adjustment",
+    "Cascade outputs exceeding judgment tempo"
+  ],
+
+  "cross_system_applicability": [
+    "Technical systems",
+    "Organizational systems",
+    "Hybrid AI-human systems"
+  ],
+
+  "scope_boundary": {
+    "includes": [
+      "Structural continuity mechanisms",
+      "Responsibility concentration analysis",
+      "Positional stability",
+      "Tempo asymmetry in replication environments"
+    ],
+    "excludes": [
+      "Legal attribution",
+      "Policy design",
+      "Normative allocation",
+      "Ethical evaluation"
+    ]
+  },
+
+  "source_relation": {
+    "based_on_prior_research": [
+      "Judgment Before Momentum",
+      "Human Judgment as an Irreducible Interface in High-Complexity Systems"
+    ],
+    "extends": "Human judgment as structural constraint into positional responsibility analysis under high-replication conditions."
+  },
+
+  "canonical_repository": "https://github.com/xufentu-creator/judgment-as-structural-constraint",
+
+  "part_of_framework": "Human Judgment as Structural Constraint in AI-Mediated Systems",
+
+  "framework_role": "Defines responsibility as a positional structural variable and explains how concentration, drift, and stability operate in high-replication environments.",
+
+  "identifiers": {
+    "orcid": "https://orcid.org/0009-0007-5265-964X",
+    "public_identity_anchor": "xufentu.eth",
+    "system_reference_anchor": "tux133144.eth"
+  },
+
+  "citation_guidance": {
+    "preferred_citation": "Tu, Xufen (2026). Human Responsibility Node in High-Replication Systems: A Theoretical Framework of Responsibility Concentration and Structural Stability.",
+    "canonical_citation": "When citing this work, include the canonical repository: https://github.com/xufentu-creator/judgment-as-structural-constraint",
+    "note": "This paper defines responsibility as a positional structural variable within the broader research framework."
+  },
+
+  "version": "1.0",
+  "date_created": "2026-03-25",
+  "date_modified": "2026-03-25"
+}
